@@ -10,6 +10,8 @@ namespace CSHARP
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!!");
+            Console.ReadKey(); // Make console to wait for any key press.
         }
     }
 }
